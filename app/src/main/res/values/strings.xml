@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CajeroLucho</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_depositar">DepositarActivity</string>
+    <string name="title_activity_retirar">RetirarActivity</string>
+    <string name="title_activity_saldo">SaldoActivity</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+
+    <!--menu-->
+    <string name="user">Cuenta</string>
+    <string name="clave">Clave</string>
+    <string name="enviar">Enviar</string>
+
+    <!--menu1-->
+    <string name="cajero_saldo">Saldo</string>
+    <string name="cajero_retirar">Retiro</string>
+    <string name="cajero_depositar">Deposito</string>
+
+    <!--depositar-->
+    <string name="tutulodepositar">Depositar</string>
+    <string name="txtdeporitarr">Ingresar monto</string>
+    <string name="btndeposito">Enviar</string>
+</resources>
